@@ -24,7 +24,7 @@ All cases are based on **actual support incidents** handled in a campus IT envir
 
 ## Case Studies Included
 
-### 📄 Case 1: Restoring User Access to a Network Home Folder (macOS)
+### Case 1: Restoring User Access to a Network Home Folder (macOS)
 
 **Summary:**  
 A macOS user was unable to access their network-based home folder via WebDAV, impacting their ability to open and save required files. Through targeted questioning and device-level diagnostics, the issue was identified as a local configuration problem rather than an account or system-wide outage.
@@ -36,7 +36,7 @@ A macOS user was unable to access their network-based home folder via WebDAV, im
 - Clear user communication and confirmation-based resolution
 
 
-### 📄 Case 2: Resolving VPN Connectivity Issues on macOS
+### Case 2: Resolving VPN Connectivity Issues on macOS
 
 **Summary:**  
 A remote user was unable to connect to the campus VPN following a macOS update, preventing access to internal systems. The issue was traced to an outdated or misconfigured VPN client, resolved through client reinstallation and configuration validation.
