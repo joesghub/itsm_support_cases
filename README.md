@@ -1,4 +1,4 @@
-# Support Case Walkthroughs
+# ITSM Support Case Walkthroughs
 
 This repository contains **real-world IT support case studies** documenting how production issues were diagnosed, resolved, and validated in a live environment.
 
