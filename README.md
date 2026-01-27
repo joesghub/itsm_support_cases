@@ -47,5 +47,9 @@ A remote user was unable to connect to the campus VPN following a macOS update, 
 - Post-OS-update failure patterns
 - Validation of functional access after resolution
 
+## 🤝🏾 Connect with Me
+
+[Joe's LinkedIn](https://www.linkedin.com/in/joeslnkdin/)
+
 
 
