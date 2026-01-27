@@ -1,4 +1,4 @@
-# Restoring User Access to a Network Home Folder (macOS)
+# Restoring User Access to a Network Home Folder 📂 
 
 ### Summary
 
