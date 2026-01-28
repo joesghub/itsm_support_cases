@@ -27,18 +27,42 @@ This creates delays, missed communications, and unnecessary operational overhead
 
 * New row added or existing row updated in Google Sheets (`Online_Student_Enrollments`)
 
+![](https://github.com/joesghub/itsm_support_cases/blob/main/zapier/imgs/zap%201.png?raw=true)
+
+![](https://github.com/joesghub/itsm_support_cases/blob/main/zapier/imgs/zap%202.png?raw=true)
+
+![](https://github.com/joesghub/itsm_support_cases/blob/main/zapier/imgs/zap%203.png?raw=true)
+
 **Planned Actions**
 
 1. Register student for a Zoom session (orientation or class)
-2. Send enrollment confirmation email
-3. Update enrollment status in the spreadsheet
-4. Log timestamp for audit and follow-up
 
+![](https://github.com/joesghub/itsm_support_cases/blob/main/zapier/imgs/zap%204.png?raw=true)
+
+![](https://github.com/joesghub/itsm_support_cases/blob/main/zapier/imgs/zap%205.png?raw=true)
+2. Send enrollment confirmation email
+
+![](https://github.com/joesghub/itsm_support_cases/blob/main/zapier/imgs/zap%206.png?raw=true)
+
+![](https://github.com/joesghub/itsm_support_cases/blob/main/zapier/imgs/zap%207.png?raw=true)
+3. Update enrollment status in the spreadsheet
+
+![](https://github.com/joesghub/itsm_support_cases/blob/main/zapier/imgs/zap%208.png?raw=true)
+
+![](https://github.com/joesghub/itsm_support_cases/blob/main/zapier/imgs/zap%209.png?raw=true)
+
+![](https://github.com/joesghub/itsm_support_cases/blob/main/zapier/imgs/zap%2010.png?raw=true)
+
+![](https://github.com/joesghub/itsm_support_cases/blob/main/zapier/imgs/zap%2011.png?raw=true)
+
+4. Log timestamp for audit and follow-up
 
 
 ## Implementation Challenge & Debugging
 
 During implementation, I discovered that **Zoom meeting registration was not enabled** for the target meeting, which caused the Zoom action to fail during testing.
+
+![](https://github.com/joesghub/itsm_support_cases/blob/main/zapier/imgs/zap%2012.png?raw=true)
 
 ### How this was handled:
 
@@ -71,6 +95,7 @@ This creates a closed-loop system where:
 * Processing status is visible at a glance
 * Repeat triggers are safely avoided
 
+![](https://github.com/joesghub/itsm_support_cases/blob/main/zapier/imgs/zap%2013.png?raw=true)
 
 
 ## Key Design Decisions
