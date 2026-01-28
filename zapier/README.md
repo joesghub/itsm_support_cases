@@ -23,7 +23,7 @@ This creates delays, missed communications, and unnecessary operational overhead
 
 ## Initial Design (Planned Architecture)
 
-**Trigger**
+### **Trigger**
 
 * New row added or existing row updated in Google Sheets (`Online_Student_Enrollments`)
 
@@ -33,19 +33,19 @@ This creates delays, missed communications, and unnecessary operational overhead
 
 ![](https://github.com/joesghub/itsm_support_cases/blob/main/zapier/imgs/zap%203.png?raw=true)
 
-**Planned Actions**
+### **Planned Actions**
 
-1. Register student for a Zoom session (orientation or class)
+#### 1. Register student for a Zoom session (orientation or class)
 
 ![](https://github.com/joesghub/itsm_support_cases/blob/main/zapier/imgs/zap%204.png?raw=true)
 
 ![](https://github.com/joesghub/itsm_support_cases/blob/main/zapier/imgs/zap%205.png?raw=true)
-2. Send enrollment confirmation email
+#### 2. Send enrollment confirmation email
 
 ![](https://github.com/joesghub/itsm_support_cases/blob/main/zapier/imgs/zap%206.png?raw=true)
 
 ![](https://github.com/joesghub/itsm_support_cases/blob/main/zapier/imgs/zap%207.png?raw=true)
-3. Update enrollment status in the spreadsheet
+#### 3. Update enrollment status in the spreadsheet
 
 ![](https://github.com/joesghub/itsm_support_cases/blob/main/zapier/imgs/zap%208.png?raw=true)
 
@@ -55,7 +55,7 @@ This creates delays, missed communications, and unnecessary operational overhead
 
 ![](https://github.com/joesghub/itsm_support_cases/blob/main/zapier/imgs/zap%2011.png?raw=true)
 
-4. Log timestamp for audit and follow-up
+#### 4. Log timestamp for audit and follow-up
 
 
 ## Implementation Challenge & Debugging
